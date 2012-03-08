@@ -1,0 +1,586 @@
+TBurnMoney
+v7
+r0
+t317711408.672777
+cCheck dependencies
+cProcessInfoPlistFile "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/Info.plist" BurnMoney-Info.plist
+cCompileXIB "/Users/Jesse/Objective C/BurnMoney/MainWindow.xib"
+cCompileXIB "/Users/Jesse/Objective C/BurnMoney/BurnMoneyViewController.xib"
+cCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire1.gif "fire gifs/Fire1.gif"
+cCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire10.gif "fire gifs/Fire10.gif"
+cCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire11.gif "fire gifs/Fire11.gif"
+cCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire12.gif "fire gifs/Fire12.gif"
+cCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire13.gif "fire gifs/Fire13.gif"
+cCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire14.gif "fire gifs/Fire14.gif"
+cCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire15.gif "fire gifs/Fire15.gif"
+cCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire16.gif "fire gifs/Fire16.gif"
+cCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire17.gif "fire gifs/Fire17.gif"
+cCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire2.gif "fire gifs/Fire2.gif"
+cCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire3.gif "fire gifs/Fire3.gif"
+cCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire4.gif "fire gifs/Fire4.gif"
+cCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire5.gif "fire gifs/Fire5.gif"
+cCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire6.gif "fire gifs/Fire6.gif"
+cCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire7.gif "fire gifs/Fire7.gif"
+cCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire8.gif "fire gifs/Fire8.gif"
+cCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire9.gif "fire gifs/Fire9.gif"
+cProcessPCH /var/folders/wb/wbtRX6OEF6WdOPgsinB9yk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BurnMoney_Prefix-cmwsmlmodzopovcvlmdhwlklrwev/BurnMoney_Prefix.pch.gch BurnMoney_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/Objects-normal/i386/main.o "/Users/Jesse/Objective C/BurnMoney/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/Objects-normal/i386/BurnMoneyAppDelegate.o "/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/Objects-normal/i386/BurnMoneyViewController.o "/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/BurnMoney" normal i386
+cGenerateDSYMFile "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app.dSYM" "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/BurnMoney"
+cTouch "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/Jesse/Objective C/BurnMoney/BurnMoneyViewController.xib
+c000000004D3FAC9700000000000075DC
+t1296018583
+s30172
+
+N/Users/Jesse/Objective C/BurnMoney/BurnMoney_Prefix.pch
+c000000004D3F736A00000000000000BB
+t1296003946
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyAppDelegate.h
+c000000004D3F736A00000000000001EE
+t1296003946
+s494
+i<UIKit/UIKit.h>
+
+N/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyAppDelegate.m
+c000000004D3F736A0000000000000AA2
+t1296003946
+s2722
+i"BurnMoneyAppDelegate.h"
+i"BurnMoneyViewController.h"
+
+N/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyViewController.h
+c000000004D3FAC88000000000000011A
+t1296018568
+s282
+i<UIKit/UIKit.h>
+
+N/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyViewController.m
+c000000004D3FACAE0000000000000A2E
+t1296018606
+s2606
+i"BurnMoneyViewController.h"
+
+N/Users/Jesse/Objective C/BurnMoney/MainWindow.xib
+c000000004D3F736A0000000000004E41
+t1296003946
+s20033
+
+N/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/Objects-normal/i386/BurnMoney.LinkFileList
+c000000004D3FACAE0000000000000191
+t1296018606
+s401
+
+N/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/Objects-normal/i386/BurnMoneyAppDelegate.o
+t1296018608
+s51048
+
+N/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/Objects-normal/i386/BurnMoneyViewController.o
+t1296018608
+s42780
+
+N/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/Objects-normal/i386/main.o
+t1296018608
+s6296
+
+N/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app
+t1296018608
+s816
+
+N/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app.dSYM
+t1296018608
+s102
+
+N/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/BurnMoney
+t1296018608
+s17752
+
+N/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/BurnMoneyViewController.nib
+t1296018607
+s2829
+
+N/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/Fire1.gif
+t1296018606
+s68993
+
+N/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/Fire10.gif
+t1296018606
+s71856
+
+N/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/Fire11.gif
+t1296018606
+s71817
+
+N/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/Fire12.gif
+t1296018606
+s69637
+
+N/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/Fire13.gif
+t1296018606
+s74021
+
+N/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/Fire14.gif
+t1296018606
+s72374
+
+N/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/Fire15.gif
+t1296018606
+s73095
+
+N/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/Fire16.gif
+t1296018606
+s76544
+
+N/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/Fire17.gif
+t1296018606
+s67905
+
+N/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/Fire2.gif
+t1296018606
+s75128
+
+N/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/Fire3.gif
+t1296018606
+s70381
+
+N/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/Fire4.gif
+t1296018606
+s73305
+
+N/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/Fire5.gif
+t1296018606
+s73750
+
+N/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/Fire6.gif
+t1296018606
+s72226
+
+N/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/Fire7.gif
+t1296018606
+s71503
+
+N/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/Fire8.gif
+t1296018606
+s69235
+
+N/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/Fire9.gif
+t1296018606
+s70513
+
+N/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/Info.plist
+t1296018606
+s599
+
+N/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/MainWindow.nib
+t1296018607
+s1127
+
+N/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/PkgInfo
+t1296018606
+s8
+
+N/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire1.gif
+c000000004D3FAB9F0000000000010D81
+t1296018335
+s68993
+
+N/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire10.gif
+c000000004D3FAB9F00000000000118B0
+t1296018335
+s71856
+
+N/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire11.gif
+c000000004D3FAB9F0000000000011889
+t1296018335
+s71817
+
+N/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire12.gif
+c000000004D3FAB9F0000000000011005
+t1296018335
+s69637
+
+N/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire13.gif
+c000000004D3FAB9F0000000000012125
+t1296018335
+s74021
+
+N/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire14.gif
+c000000004D3FAB9F0000000000011AB6
+t1296018335
+s72374
+
+N/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire15.gif
+c000000004D3FAB9F0000000000011D87
+t1296018335
+s73095
+
+N/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire16.gif
+c000000004D3FAB9F0000000000012B00
+t1296018335
+s76544
+
+N/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire17.gif
+c000000004D3FAB9F0000000000010941
+t1296018335
+s67905
+
+N/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire2.gif
+c000000004D3FAB9F0000000000012578
+t1296018335
+s75128
+
+N/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire3.gif
+c000000004D3FAB9F00000000000112ED
+t1296018335
+s70381
+
+N/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire4.gif
+c000000004D3FAB9F0000000000011E59
+t1296018335
+s73305
+
+N/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire5.gif
+c000000004D3FAB9F0000000000012016
+t1296018335
+s73750
+
+N/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire6.gif
+c000000004D3FAB9F0000000000011A22
+t1296018335
+s72226
+
+N/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire7.gif
+c000000004D3FAB9F000000000001174F
+t1296018335
+s71503
+
+N/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire8.gif
+c000000004D3FAB9F0000000000010E73
+t1296018335
+s69235
+
+N/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire9.gif
+c000000004D3FAB9F0000000000011371
+t1296018335
+s70513
+
+N/Users/Jesse/Objective C/BurnMoney/main.m
+c000000004D3F736A000000000000016E
+t1296003946
+s366
+i<UIKit/UIKit.h>
+
+N/var/folders/wb/wbtRX6OEF6WdOPgsinB9yk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BurnMoney_Prefix-cmwsmlmodzopovcvlmdhwlklrwev/BurnMoney_Prefix.pch.gch
+t1296018607
+s15453392
+
+NBurnMoney-Info.plist
+c000000004D3F736A000000000000038D
+t1296003946
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies317711406#317711406#0(0"0(0#1#0"8247620834010738688#0"0#
+
+CCompileC build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/Objects-normal/i386/BurnMoneyAppDelegate.o "/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s317711408.063837
+e317711408.268055
+r1
+xCompileC
+xbuild/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/Objects-normal/i386/BurnMoneyAppDelegate.o
+x/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyAppDelegate.m317711408#317711408#0(0"0(0#0#65"/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyAppDelegate.m8613443232#1972"    cd "/Users/Jesse/Objective C/BurnMoney"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/BurnMoney-generated-files.hmap" "-I/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/BurnMoney-own-target-headers.hmap" "-I/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/BurnMoney-all-target-headers.hmap" -iquote "/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/BurnMoney-project-headers.hmap" "-F/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator" "-I/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/include" "-I/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/DerivedSources/i386" "-I/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/DerivedSources" -include /var/folders/wb/wbtRX6OEF6WdOPgsinB9yk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BurnMoney_Prefix-cmwsmlmodzopovcvlmdhwlklrwev/BurnMoney_Prefix.pch -c "/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyAppDelegate.m" -o "/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/Objects-normal/i386/BurnMoneyAppDelegate.o"0#
+
+CCompileC build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/Objects-normal/i386/BurnMoneyViewController.o "/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s317711408.064909
+e317711408.268355
+r1
+xCompileC
+xbuild/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/Objects-normal/i386/BurnMoneyViewController.o
+x/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyViewController.m: In function '-[BurnMoneyViewController viewDidLoad]':
+o/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyViewController.m:38: warning: local declaration of 'fireView' hides instance variable
+o/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyViewController.m:58: warning: local declaration of 'fireView' hides instance variable
+o/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyViewController.m:60: warning: local declaration of 'fireView' hides instance variable
+o/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyViewController.m:62: warning: local declaration of 'fireView' hides instance variable
+o/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyViewController.m:64: warning: local declaration of 'fireView' hides instance variable
+lSLF07#2@76"Compile /Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyViewController.m317711408#317711408#0(814"/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyViewController.m: In function '-[BurnMoneyViewController viewDidLoad]':/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyViewController.m:38: warning: local declaration of 'fireView' hides instance variable/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyViewController.m:58: warning: local declaration of 'fireView' hides instance variable/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyViewController.m:60: warning: local declaration of 'fireView' hides instance variable/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyViewController.m:62: warning: local declaration of 'fireView' hides instance variable/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyViewController.m:64: warning: local declaration of 'fireView' hides instance variable5(22@55"Local declaration of 'fireView' hides instance variable317711408#124#138#0(6@68"/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyViewController.m317711406#38#0#38#0#0"0(22@55"Local declaration of 'fireView' hides instance variable317711408#262#138#0(6@68"/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyViewController.m317711406#58#0#58#0#0"0(22@55"Local declaration of 'fireView' hides instance variable317711408#400#138#0(6@68"/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyViewController.m317711406#60#0#60#0#0"0(22@55"Local declaration of 'fireView' hides instance variable317711408#538#138#0(6@68"/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyViewController.m317711406#62#0#62#0#0"0(22@55"Local declaration of 'fireView' hides instance variable317711408#676#138#0(6@68"/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyViewController.m317711406#64#0#64#0#0"0(0#0#68"/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyViewController.m8613211008#1978"    cd "/Users/Jesse/Objective C/BurnMoney"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/BurnMoney-generated-files.hmap" "-I/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/BurnMoney-own-target-headers.hmap" "-I/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/BurnMoney-all-target-headers.hmap" -iquote "/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/BurnMoney-project-headers.hmap" "-F/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator" "-I/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/include" "-I/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/DerivedSources/i386" "-I/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/DerivedSources" -include /var/folders/wb/wbtRX6OEF6WdOPgsinB9yk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BurnMoney_Prefix-cmwsmlmodzopovcvlmdhwlklrwev/BurnMoney_Prefix.pch -c "/Users/Jesse/Objective C/BurnMoney/Classes/BurnMoneyViewController.m" -o "/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/Objects-normal/i386/BurnMoneyViewController.o"0#
+
+CCompileC build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/Objects-normal/i386/main.o "/Users/Jesse/Objective C/BurnMoney/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s317711408.062331
+e317711408.256948
+r1
+xCompileC
+xbuild/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/Objects-normal/i386/main.o
+x/Users/Jesse/Objective C/BurnMoney/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@49"Compile /Users/Jesse/Objective C/BurnMoney/main.m317711408#317711408#0(0"0(0#0#41"/Users/Jesse/Objective C/BurnMoney/main.m8616612640#1932"    cd "/Users/Jesse/Objective C/BurnMoney"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/BurnMoney-generated-files.hmap" "-I/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/BurnMoney-own-target-headers.hmap" "-I/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/BurnMoney-all-target-headers.hmap" -iquote "/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/BurnMoney-project-headers.hmap" "-F/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator" "-I/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/include" "-I/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/DerivedSources/i386" "-I/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/DerivedSources" -include /var/folders/wb/wbtRX6OEF6WdOPgsinB9yk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BurnMoney_Prefix-cmwsmlmodzopovcvlmdhwlklrwev/BurnMoney_Prefix.pch -c "/Users/Jesse/Objective C/BurnMoney/main.m" -o "/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/Jesse/Objective C/BurnMoney/BurnMoneyViewController.xib"
+s317711406.651581
+e317711407.130584
+r1
+xCompileXIB
+x/Users/Jesse/Objective C/BurnMoney/BurnMoneyViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@38"CompileXIB BurnMoneyViewController.xib317711406#317711407#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#62"/Users/Jesse/Objective C/BurnMoney/BurnMoneyViewController.xib8612721984#592"    cd "/Users/Jesse/Objective C/BurnMoney"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/BurnMoneyViewController.nib" "/Users/Jesse/Objective C/BurnMoney/BurnMoneyViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/Jesse/Objective C/BurnMoney/MainWindow.xib"
+s317711406.642612
+e317711407.050302
+r1
+xCompileXIB
+x/Users/Jesse/Objective C/BurnMoney/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib317711406#317711407#0(0"0(0#0#49"/Users/Jesse/Objective C/BurnMoney/MainWindow.xib8613223232#566"    cd "/Users/Jesse/Objective C/BurnMoney"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/MainWindow.nib" "/Users/Jesse/Objective C/BurnMoney/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire1.gif "fire gifs/Fire1.gif"
+s317711406.652550
+e317711406.689132
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BurnMoney.app/Fire1.gif
+xfire gifs/Fire1.gif
+lSLF07#2@24"Copy fire gifs/Fire1.gif317711406#317711406#0(0"0(0#0#54"/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire1.gif8612476576#473"    cd "/Users/Jesse/Objective C/BurnMoney"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire1.gif" "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app"0#
+
+CCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire10.gif "fire gifs/Fire10.gif"
+s317711406.653358
+e317711406.689301
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BurnMoney.app/Fire10.gif
+xfire gifs/Fire10.gif
+lSLF07#2@25"Copy fire gifs/Fire10.gif317711406#317711406#0(0"0(0#0#55"/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire10.gif8604095744#474"    cd "/Users/Jesse/Objective C/BurnMoney"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire10.gif" "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app"0#
+
+CCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire11.gif "fire gifs/Fire11.gif"
+s317711406.654069
+e317711406.689456
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BurnMoney.app/Fire11.gif
+xfire gifs/Fire11.gif
+lSLF07#2@25"Copy fire gifs/Fire11.gif317711406#317711406#0(0"0(0#0#55"/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire11.gif8612141664#474"    cd "/Users/Jesse/Objective C/BurnMoney"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire11.gif" "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app"0#
+
+CCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire12.gif "fire gifs/Fire12.gif"
+s317711406.654760
+e317711406.696388
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BurnMoney.app/Fire12.gif
+xfire gifs/Fire12.gif
+lSLF07#2@25"Copy fire gifs/Fire12.gif317711406#317711406#0(0"0(0#0#55"/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire12.gif8611930432#474"    cd "/Users/Jesse/Objective C/BurnMoney"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire12.gif" "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app"0#
+
+CCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire13.gif "fire gifs/Fire13.gif"
+s317711406.655440
+e317711406.696555
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BurnMoney.app/Fire13.gif
+xfire gifs/Fire13.gif
+lSLF07#2@25"Copy fire gifs/Fire13.gif317711406#317711406#0(0"0(0#0#55"/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire13.gif8611806880#474"    cd "/Users/Jesse/Objective C/BurnMoney"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire13.gif" "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app"0#
+
+CCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire14.gif "fire gifs/Fire14.gif"
+s317711406.656137
+e317711406.689608
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BurnMoney.app/Fire14.gif
+xfire gifs/Fire14.gif
+lSLF07#2@25"Copy fire gifs/Fire14.gif317711406#317711406#0(0"0(0#0#55"/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire14.gif8611719008#474"    cd "/Users/Jesse/Objective C/BurnMoney"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire14.gif" "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app"0#
+
+CCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire15.gif "fire gifs/Fire15.gif"
+s317711406.658152
+e317711406.687509
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BurnMoney.app/Fire15.gif
+xfire gifs/Fire15.gif
+lSLF07#2@25"Copy fire gifs/Fire15.gif317711406#317711406#0(0"0(0#0#55"/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire15.gif8611668992#474"    cd "/Users/Jesse/Objective C/BurnMoney"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire15.gif" "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app"0#
+
+CCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire16.gif "fire gifs/Fire16.gif"
+s317711406.658851
+e317711406.689868
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BurnMoney.app/Fire16.gif
+xfire gifs/Fire16.gif
+lSLF07#2@25"Copy fire gifs/Fire16.gif317711406#317711406#0(0"0(0#0#55"/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire16.gif8611625760#474"    cd "/Users/Jesse/Objective C/BurnMoney"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire16.gif" "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app"0#
+
+CCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire17.gif "fire gifs/Fire17.gif"
+s317711406.687711
+e317711406.699712
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BurnMoney.app/Fire17.gif
+xfire gifs/Fire17.gif
+lSLF07#2@25"Copy fire gifs/Fire17.gif317711406#317711406#0(0"0(0#0#55"/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire17.gif8619161568#474"    cd "/Users/Jesse/Objective C/BurnMoney"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire17.gif" "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app"0#
+
+CCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire2.gif "fire gifs/Fire2.gif"
+s317711406.690000
+e317711406.702028
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BurnMoney.app/Fire2.gif
+xfire gifs/Fire2.gif
+lSLF07#2@24"Copy fire gifs/Fire2.gif317711406#317711406#0(0"0(0#0#54"/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire2.gif8613482336#473"    cd "/Users/Jesse/Objective C/BurnMoney"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire2.gif" "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app"0#
+
+CCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire3.gif "fire gifs/Fire3.gif"
+s317711406.690849
+e317711406.704624
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BurnMoney.app/Fire3.gif
+xfire gifs/Fire3.gif
+lSLF07#2@24"Copy fire gifs/Fire3.gif317711406#317711406#0(0"0(0#0#54"/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire3.gif8613391872#473"    cd "/Users/Jesse/Objective C/BurnMoney"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire3.gif" "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app"0#
+
+CCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire4.gif "fire gifs/Fire4.gif"
+s317711406.693020
+e317711406.702984
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BurnMoney.app/Fire4.gif
+xfire gifs/Fire4.gif
+lSLF07#2@24"Copy fire gifs/Fire4.gif317711406#317711406#0(0"0(0#0#54"/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire4.gif8613242272#473"    cd "/Users/Jesse/Objective C/BurnMoney"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire4.gif" "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app"0#
+
+CCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire5.gif "fire gifs/Fire5.gif"
+s317711406.694131
+e317711406.702728
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BurnMoney.app/Fire5.gif
+xfire gifs/Fire5.gif
+lSLF07#2@24"Copy fire gifs/Fire5.gif317711406#317711406#0(0"0(0#0#54"/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire5.gif8613158656#473"    cd "/Users/Jesse/Objective C/BurnMoney"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire5.gif" "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app"0#
+
+CCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire6.gif "fire gifs/Fire6.gif"
+s317711406.694861
+e317711406.705475
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BurnMoney.app/Fire6.gif
+xfire gifs/Fire6.gif
+lSLF07#2@24"Copy fire gifs/Fire6.gif317711406#317711406#0(0"0(0#0#54"/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire6.gif8612975808#473"    cd "/Users/Jesse/Objective C/BurnMoney"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire6.gif" "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app"0#
+
+CCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire7.gif "fire gifs/Fire7.gif"
+s317711406.696681
+e317711406.706702
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BurnMoney.app/Fire7.gif
+xfire gifs/Fire7.gif
+lSLF07#2@24"Copy fire gifs/Fire7.gif317711406#317711406#0(0"0(0#0#54"/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire7.gif8612880288#473"    cd "/Users/Jesse/Objective C/BurnMoney"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire7.gif" "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app"0#
+
+CCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire8.gif "fire gifs/Fire8.gif"
+s317711406.698601
+e317711406.706137
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BurnMoney.app/Fire8.gif
+xfire gifs/Fire8.gif
+lSLF07#2@24"Copy fire gifs/Fire8.gif317711406#317711406#0(0"0(0#0#54"/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire8.gif8612821280#473"    cd "/Users/Jesse/Objective C/BurnMoney"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire8.gif" "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app"0#
+
+CCpResource build/Debug-iphonesimulator/BurnMoney.app/Fire9.gif "fire gifs/Fire9.gif"
+s317711406.699808
+e317711406.707622
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BurnMoney.app/Fire9.gif
+xfire gifs/Fire9.gif
+lSLF07#2@24"Copy fire gifs/Fire9.gif317711406#317711406#0(0"0(0#0#54"/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire9.gif8612667936#473"    cd "/Users/Jesse/Objective C/BurnMoney"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/Jesse/Objective C/BurnMoney/fire gifs/Fire9.gif" "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app"0#
+
+CGenerateDSYMFile "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app.dSYM" "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/BurnMoney"
+s317711408.592696
+e317711408.644467
+r1
+xGenerateDSYMFile
+x/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app.dSYM
+x/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/BurnMoney
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/BurnMoney.app.dSYM build/Debug-iphonesimulator/BurnMoney.app/BurnMoney317711408#317711408#0(0"0(0#0#86"/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/BurnMoney8611619936#383"    cd "/Users/Jesse/Objective C/BurnMoney"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/BurnMoney" -o "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app.dSYM"0#
+
+CLd "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/BurnMoney" normal i386
+s317711408.268438
+e317711408.592572
+r1
+xLd
+x/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/BurnMoney
+xnormal
+xi386
+lSLF07#2@91"Link /Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/BurnMoney317711408#317711408#0(0"0(0#0#0"7958552418641408000#900"    cd "/Users/Jesse/Objective C/BurnMoney"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator" "-F/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator" -filelist "/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/Objects-normal/i386/BurnMoney.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/BurnMoney"0#
+
+CProcessInfoPlistFile "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/Info.plist" BurnMoney-Info.plist
+s317711406.607214
+e317711406.642545
+r1
+xProcessInfoPlistFile
+x/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/Info.plist
+xBurnMoney-Info.plist
+lSLF07#2@28"Process BurnMoney-Info.plist317711406#317711406#0(0"0(0#0#55"/Users/Jesse/Objective C/BurnMoney/BurnMoney-Info.plist8449368019443146752#479"    cd "/Users/Jesse/Objective C/BurnMoney"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BurnMoney-Info.plist -genpkginfo "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app/Info.plist"0#
+
+CProcessPCH /var/folders/wb/wbtRX6OEF6WdOPgsinB9yk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BurnMoney_Prefix-cmwsmlmodzopovcvlmdhwlklrwev/BurnMoney_Prefix.pch.gch BurnMoney_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s317711407.130698
+e317711408.062181
+r1
+xProcessPCH
+x/var/folders/wb/wbtRX6OEF6WdOPgsinB9yk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BurnMoney_Prefix-cmwsmlmodzopovcvlmdhwlklrwev/BurnMoney_Prefix.pch.gch
+xBurnMoney_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile BurnMoney_Prefix.pch317711407#317711408#0(0"0(0#0#55"/Users/Jesse/Objective C/BurnMoney/BurnMoney_Prefix.pch8612335072#1824"    cd "/Users/Jesse/Objective C/BurnMoney"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/BurnMoney-generated-files.hmap" "-I/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/BurnMoney-own-target-headers.hmap" "-I/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/BurnMoney-all-target-headers.hmap" -iquote "/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/BurnMoney-project-headers.hmap" "-F/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator" "-I/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/include" "-I/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/DerivedSources/i386" "-I/Users/Jesse/Objective C/BurnMoney/build/BurnMoney.build/Debug-iphonesimulator/BurnMoney.build/DerivedSources" -c "/Users/Jesse/Objective C/BurnMoney/BurnMoney_Prefix.pch" -o /var/folders/wb/wbtRX6OEF6WdOPgsinB9yk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BurnMoney_Prefix-cmwsmlmodzopovcvlmdhwlklrwev/BurnMoney_Prefix.pch.gch0#
+
+CTouch "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app"
+s317711408.644546
+e317711408.672397
+r1
+xTouch
+x/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app
+lSLF07#2@82"Touch /Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app317711408#317711408#0(0"0(0#0#0"8634026016#276"    cd "/Users/Jesse/Objective C/BurnMoney"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/Jesse/Objective C/BurnMoney/build/Debug-iphonesimulator/BurnMoney.app"0#
+

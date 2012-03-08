@@ -1,0 +1,194 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* BurnMoney */ = {
+		activeExec = 0;
+		executables = (
+			88AA90F012EFAAEA00500D2B /* BurnMoney */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* BurnMoneyViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1043, 787}}";
+			sepNavSelRange = "{720, 0}";
+			sepNavVisRange = "{0, 727}";
+			sepNavWindowFrame = "{{38, 5}, {1261, 997}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* BurnMoneyViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1202, 2990}}";
+			sepNavSelRange = "{1225, 0}";
+			sepNavVisRange = "{828, 1405}";
+			sepNavWindowFrame = "{{158, 31}, {1261, 997}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 88AA90F012EFAAEA00500D2B /* BurnMoney */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* BurnMoney */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* BurnMoney */,
+		);
+		codeSenseManager = 88AA910312EFAAF300500D2B /* Code sense */;
+		executables = (
+			88AA90F012EFAAEA00500D2B /* BurnMoney */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					10,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 319491852;
+			PBXWorkspaceStateSaveDate = 319491852;
+		};
+		perUserProjectItems = {
+			880C860A12F11BDD00D4E6E2 /* PlistBookmark */ = 880C860A12F11BDD00D4E6E2 /* PlistBookmark */;
+			883B02E5130B17DA004B11E3 /* PBXBookmark */ = 883B02E5130B17DA004B11E3 /* PBXBookmark */;
+			883B02E6130B17DA004B11E3 /* PBXBookmark */ = 883B02E6130B17DA004B11E3 /* PBXBookmark */;
+			883B02E7130B17DA004B11E3 /* PBXBookmark */ = 883B02E7130B17DA004B11E3 /* PBXBookmark */;
+			883B02E8130B17DA004B11E3 /* PBXBookmark */ = 883B02E8130B17DA004B11E3 /* PBXBookmark */;
+			883B02E9130B17DA004B11E3 /* PBXBookmark */ = 883B02E9130B17DA004B11E3 /* PBXBookmark */;
+			883B03D7130B4A58004B11E3 /* PBXTextBookmark */ = 883B03D7130B4A58004B11E3 /* PBXTextBookmark */;
+			883B03D8130B4A58004B11E3 /* PBXTextBookmark */ = 883B03D8130B4A58004B11E3 /* PBXTextBookmark */;
+			883B0417130B51BC004B11E3 /* PBXTextBookmark */ = 883B0417130B51BC004B11E3 /* PBXTextBookmark */;
+			88EB794A12EFE7410019ADDB /* PBXBookmark */ = 88EB794A12EFE7410019ADDB /* PBXBookmark */;
+		};
+		sourceControlManager = 88AA910212EFAAF300500D2B /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	880C860A12F11BDD00D4E6E2 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* BurnMoney-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			UIPrerenderedIcon,
+		);
+		name = "/Users/Jesse/Objective C/BurnMoney/BurnMoney-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	883B02E5130B17DA004B11E3 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 883B02DF130B16A7004B11E3 /* 5.jpg */;
+	};
+	883B02E6130B17DA004B11E3 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 883B02DE130B16A7004B11E3 /* 20.jpg */;
+	};
+	883B02E7130B17DA004B11E3 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 883B02DD130B16A7004B11E3 /* 1000.jpg */;
+	};
+	883B02E8130B17DA004B11E3 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 883B02DC130B16A7004B11E3 /* 100.jpg */;
+	};
+	883B02E9130B17DA004B11E3 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 883B02DB130B16A7004B11E3 /* 1.jpg */;
+	};
+	883B03D7130B4A58004B11E3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* BurnMoneyViewController.h */;
+		name = "BurnMoneyViewController.h: 33";
+		rLen = 0;
+		rLoc = 720;
+		rType = 0;
+		vrLen = 727;
+		vrLoc = 0;
+	};
+	883B03D8130B4A58004B11E3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* BurnMoneyViewController.m */;
+		name = "BurnMoneyViewController.m: 102";
+		rLen = 0;
+		rLoc = 1982;
+		rType = 0;
+		vrLen = 871;
+		vrLoc = 0;
+	};
+	883B0417130B51BC004B11E3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* BurnMoneyViewController.m */;
+		name = "BurnMoneyViewController.m: 75";
+		rLen = 0;
+		rLoc = 1225;
+		rType = 0;
+		vrLen = 1405;
+		vrLoc = 828;
+	};
+	88AA90F012EFAAEA00500D2B /* BurnMoney */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = BurnMoney;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	88AA910212EFAAF300500D2B /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	88AA910312EFAAF300500D2B /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	88EB794A12EFE7410019ADDB /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 88EB792712EFE48B0019ADDB /* burn57.png */;
+	};
+	8D1107310486CEB800E47090 /* BurnMoney-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{218, 26}, {1261, 997}}";
+		};
+	};
+}
